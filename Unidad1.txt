@@ -1,0 +1,20 @@
+Resúmen de la Unidad I
+
+La unidad I se centra en establecer las bases de la lógica de programación y el funcionamiento de las computadoras.
+
+- Temas vistos:
+1. Concepto de la programación: Dar instrucciones precisas a una computadora para crear soluciones, automatizaciones o procesos.
+
+2. Lenguaje de máquina y sistema binario: Los componentes eléctronicos solo reconocen dos estados: encendido (1) y apagado (0), para traducir nuestro lenguaje al lenguaje máquina se lleva a cabo un proceso llamado compilación.
+
+3. Unidades de medida y datos: La unidad mínima es un bit, estos se agrupan en grupos de 8 (bytes) y sucesivamente van a kilobyte, megabyte, gigabyte, etc. Y se basan en potencias de 2.
+
+4. Algoritmos: Lista de pasos ordenados y explicitos para solucionar un problema.
+
+5. Lógica booleana: Para toma de desiciones, utiliza operadores como la disyunción (requiere ambas proposiciones sean verdad), conjunción (requiere que solo una proposición sea verdad) y la negación (niega la proposición).
+
+- Temas importantes:
+Es interesante saber cómo funcionan las cosas, pero lo más interesante para mí fue la lógica booleana, algo que por instinto podemos percibir y entender llevado a la máquina.
+
+- Complicaciones:
+Utilizar el sistema binario fue tedioso, llevaba mucho tiempo de no utilizarlo.
