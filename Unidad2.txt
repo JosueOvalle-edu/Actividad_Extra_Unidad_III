@@ -1,0 +1,18 @@
+Resúmen de la Unidad II
+
+La unidad II se enfoca en los fundamentos de la programación, utilizando el lenguaje JavaScript.
+
+- Temas vistos:
+1. Variables y la memoria: Son nombres que se le asignan a espacios en memoria para guardar valores.
+
+2. Tipos de datos: Se vieron los datos primitivos (cadenas de texto, booleanos, números), que son la base para evaluar cualquier condición.
+
+3. Flujo del programa: Existen dos Secuencial (línea por línea en orden), Condicionales (toma de desiciones basadas en condicionales) y Ciclos (para repetir instrucciones).
+
+4. Funciones: Usamos prompt() para pedir datos, alert() para mostrar mensajes, parseInt() para convertir strings en números y Math.random() para generar valores aleatorios. 
+
+- Temas importantes:
+Lo más relevante fue la combinación de todos estos temas para poder escribir nuestro propio código.
+
+- Dificultades:
+Ninguna, ya tenia conocimiento previo.
