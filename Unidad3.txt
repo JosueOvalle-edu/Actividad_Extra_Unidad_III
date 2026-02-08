@@ -1,0 +1,21 @@
+Resúmen de la Unidad III
+La unidad III se enfoca en los controladores de versiones, su flujo de trabajo y sus plataformas.
+
+- Temas vistos:
+1. Concepto de Controladores de versiones: Se explicó que son herramientas para registrar el desarrollo de un proyecto, registra cambios, quién los hizo y en que momento lo hizo.
+
+2. Tipos de Controladores: Hay centralizados (trabajan sobre un solo documento) y distribuidos (cada uno tiene una copia).
+
+3. Git y GitHub: Git es la herramienta que gestiona localmente y GitHub es la plataforma que "guarda" los repositorios.
+
+4. Comandos Básicos: Flujo de trabajo escencial como git init (inicia el repositorio), git add . (agrega los cambios o nuevos archivos al staging area), git commit (se guardan los cambios junto con un mensaje) y git push (se envian los cambios al repositorio en la web).
+
+5. Ramas (Branches): Versiones alternas, seguras de la rama principal, para incorporar nuevas funciones o arreglar errores sin afectar a la rama principal.
+
+6. Licencias de software: Importante para resguardar los terminos de uso y proteccion del código frente otros usuarios. 
+
+- Temas importantes:
+Lo más relevante fue comprender que son los controladores de versiones no solo como una herramienta de respaldo, si no, también de colaboración. 
+
+- Dificultades: 
+Ninguna, ya tenia conocimiento previo.
